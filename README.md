@@ -1,15 +1,48 @@
-<h1 align="center">超过1000本的计算机经典书籍分享</h1>
+<h1 align="center">计算机经典的高清书籍分享</h1>
 <p align="center">
-    <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
-<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
-   <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
-       <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
-    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://github.com/forthespada/CSLearning"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
-           <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
-        </p>
 
-# CS-Books
-分享计算机经典书籍，资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经
+<a href="https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-001.jpg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-orange" alt="公众号"> </a><a href="https://blog.csdn.net/chopin11vip"><img src="https://img.shields.io/badge/CSDN-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-green" alt="CSDN"></a> <a href="https://github.com/chopin11"><img src="https://img.shields.io/badge/Github-%E5%8D%81%E4%B8%80%E6%9C%88%E7%9A%84%E8%82%96%E9%82%A6-blue" alt="Github"></a> <a href="https://github.com/chopin11/CS-Books"><img src="https://img.shields.io/badge/PDF-免费高清电子书-red.svg" alt="PDF"></a>
+
+</p>
+
+分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、操作系统、数据库、网络协议、设计模式、前端、汇编，以及常见高频的面试题。
+
+## Linux相关
+
+- 01
+- 02
+
+## C语言
+
+- 《C程序设计语言》 - [下载地址]() - 密码: a758
+- 《C和指针》 - [下载地址]() - 密码: a758
+- 《C专家编程》 - [下载地址]() - 密码: a758
+- 《嗨翻C语言》 - [下载地址]() - 密码: a758
+- 《C陷阱与缺陷》 - [下载地址]() - 密码: a758
+- 《C语言深度解剖》 - [下载地址]() - 密码: a758
+- 《C语言编程魔法书》 - [下载地址]() - 密码: a758
+- 《C语言从入门到精通第2版》 - [下载地址]() - 密码: a758
+- 《C Primer Plus 第6版》 - [下载地址]() - 密码: a758
+- 《C语言接口与实现创建可重用软件的技术》 - [下载地址]() - 密码: a758
+
+## C++
+
+## Golang
+
+## Python
+
+## 数据算法
+
+## 操作系统
+
+## 网络协议
+
+## 软件工程
+
+## 工具类
+
+## 中间件
+
+
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F3Y0CXF626EG3QQ76DHFHPJM/green.svg)](https://badges.toozhao.com/stats/01F3Y0CXF626EG3QQ76DHFHPJM "Get your own page views count badge on badges.toozhao.com")
