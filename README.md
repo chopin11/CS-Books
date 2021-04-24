@@ -1,9 +1,5 @@
 <h1 align="center">计算机经典的高清书籍分享</h1>
-<p align="center">
-
-<a href="https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-001.jpg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-orange" alt="公众号"> </a><a href="https://blog.csdn.net/chopin11vip"><img src="https://img.shields.io/badge/CSDN-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-green" alt="CSDN"></a> <a href="https://github.com/chopin11"><img src="https://img.shields.io/badge/Github-%E5%8D%81%E4%B8%80%E6%9C%88%E7%9A%84%E8%82%96%E9%82%A6-blue" alt="Github"></a> <a href="https://github.com/chopin11/CS-Books"><img src="https://img.shields.io/badge/PDF-免费高清电子书-red.svg" alt="PDF"></a>
-
-</p>
+<p align="center"><a href="https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-001.jpg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-orange" alt="公众号"> </a><a href="https://blog.csdn.net/chopin11vip"><img src="https://img.shields.io/badge/CSDN-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-green" alt="CSDN"></a> <a href="https://github.com/chopin11"><img src="https://img.shields.io/badge/Github-%E5%8D%81%E4%B8%80%E6%9C%88%E7%9A%84%E8%82%96%E9%82%A6-blue" alt="Github"></a> <a href="https://github.com/chopin11/CS-Books"><img src="https://img.shields.io/badge/PDF-免费高清电子书-red.svg" alt="PDF"></a></p>
 
 分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、操作系统、数据库、网络协议、设计模式、前端、汇编，以及常见高频的面试题。
 
