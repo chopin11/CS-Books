@@ -1,12 +1,23 @@
 <h1 align="center">计算机经典的高清书籍分享</h1>
 <p align="center"><a href="https://cdn.jsdelivr.net/gh/chopin11/image001/bcxy-000.jpeg"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-orange" alt="公众号"> </a><a href="https://blog.csdn.net/chopin11vip"><img src="https://img.shields.io/badge/CSDN-%E7%BC%96%E7%A8%8B%E4%BF%AE%E5%85%BB-green" alt="CSDN"></a> <a href="https://github.com/chopin11"><img src="https://img.shields.io/badge/Github-%E5%8D%81%E4%B8%80%E6%9C%88%E7%9A%84%E8%82%96%E9%82%A6-blue" alt="Github"></a> <a href="https://github.com/chopin11/CS-Books"><img src="https://img.shields.io/badge/PDF-免费高清电子书-red.svg" alt="PDF"></a></p>
 
-分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、操作系统、数据库、网络协议、设计模式、前端、汇编，以及常见高频的面试题。
+分享高清计算机经典书籍，资源包括：Linux、C/C++、Java、Python、Golang、数据结构与算法、操作系统、后端架构、数据库、网络协议、设计模式、前端，以及常见高频的面试题。
 
 ## Linux相关
 
-- 01
-- 02
+| 编号 | 名称                             | 下载地址 | 密码 | 豆瓣评分 |  格式  | 大小  |
+| ---- | :------------------------------- | :------: | ---- | :------: | :----: | :---: |
+| l000 | 鸟哥的Linux私房菜-基础篇         |          |      |          | 文字版 |   M   |
+| l001 | 鸟哥的linux私房菜-服务器         |          |      |          | 文字版 | 12.9M |
+| l002 | Linux就该这么学                  |          |      |          | 文字版 | 17.7M |
+| l100 | Linux Shell脚本攻略              |          |      |          | 文字版 | 10.8M |
+| l101 | Linux命令行与shell脚本编程大全   |          |      |          | 文字版 | 22.0M |
+| l102 | Linux系统命令及shell脚本实践指南 |          |      |          | 文字版 | 10.9M |
+| l103 | Linux bash编程与脚本应用实战     |          |      |          | 文字版 | 3.4M  |
+| l104 | awk程序设计语言                  |          |      |          | 文字版 | 1.4M  |
+| l105 | Sed与awk                         |          |      |          | 文字版 | 16.8M |
+|      |                                  |          |      |          |        |       |
+
 
 ## C语言
 
@@ -87,5 +98,9 @@
 ## 中间件
 
 
+## 声明
+
+- 本仓库分享的所有电子书，仅用于个人学习，请勿用于商业
+- 书籍都是来源于网络其他人的整理，如有侵权，联系我，我立马删除对应链接，邮箱：*chopin11vip@163.com*
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F3Y0CXF626EG3QQ76DHFHPJM/green.svg)](https://badges.toozhao.com/stats/01F3Y0CXF626EG3QQ76DHFHPJM "Get your own page views count badge on badges.toozhao.com")
